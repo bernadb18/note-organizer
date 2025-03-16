@@ -1,0 +1,4 @@
+
+  notes: & C:/Users/trpsk/AppData/Local/Microsoft/WindowsApps/python3.11.exe "c:/Users/trpsk/OneDrive/Desktop/ai chatbot in website/main.py"
+  notes: adwdadaw
+  notes: dadwawdaw
